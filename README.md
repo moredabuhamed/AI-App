@@ -40,3 +40,10 @@ ai-app/
  │
  └── pom.xml               # Maven configuration
 ```
+---
+## 🖼️ Screenshot
+
+Here’s how the chat app looks in action:
+
+<img width="957" height="911" alt="image" src="https://github.com/user-attachments/assets/f2c96a24-fb52-47b6-919e-f02c76711e45" />
+
