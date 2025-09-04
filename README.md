@@ -24,8 +24,7 @@ This project connects to an Ollama model running locally (e.g., `deepseek-r1:1.5
 
 ---
 ## 📂 Project Structure
-markdown
-Copy code
+
 ```
 ai-app/
  ├── src/main/java/com/moredabuhamed/ai_app
